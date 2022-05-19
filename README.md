@@ -1,4 +1,4 @@
-- 👋 Hi, I’m shwetahosamani
+- 👋 Hi, I’m shweta hosamani
 - 👀 I’m interested in Data analyst
 - 🌱 I’m currently learning python,mysql,tableau
 - 📫 Reach me on hosamanishweta16@gmail.com
