@@ -1,7 +1,6 @@
 - 👋 Hi, I’m shwetahosamani
 - 👀 I’m interested in Data analyst
 - 🌱 I’m currently learning python,mysql,tableau
-- 💞️ I’m looking to collaborate on data analyst
 - 📫 Reach me on hosamanishweta16@gmail.com
 
 <!---
